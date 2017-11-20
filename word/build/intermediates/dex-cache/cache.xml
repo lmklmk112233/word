@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lishangqian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/lishangqian/Desktop/Word/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_94c663f49d4f7de2f6f8a08f3a44eeb78419e4c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lishangqian/.android/build-cache/b90979a90652a5273cb939991589fbd3c82e63fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/lishangqian/Desktop/Word/app/build/intermediates/pre-dexed/debug/classes_d32872f9168516abe8d25163285ffd62f90301ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lishangqian/.android/build-cache/a8c5a8ccd142975069742fd96e10727ab97fb717/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/lishangqian/Desktop/Word/app/build/intermediates/pre-dexed/debug/classes_bfa59141008b42ce7ba9c302e7b2ebde8a3dc1ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lishangqian/.android/build-cache/75fb5124af36a95be016ae5eb69f7884c1661d13/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/lishangqian/Desktop/Word/app/build/intermediates/pre-dexed/debug/classes_7c858cb27b05d68510171a0974847cf05cc0d877.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lishangqian/.android/build-cache/4985a41526bbc732b270e22db82850cbe8c4c6c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/lishangqian/Desktop/Word/app/build/intermediates/pre-dexed/debug/classes_1cf5e24174d32cf7bdcf905cf2887112d1ce3cbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lishangqian/.android/build-cache/7e56fae3bb17ec5a38ce5f75c3ca7847a6cfea7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/lishangqian/Desktop/Word/app/build/intermediates/pre-dexed/debug/classes_459db278eae9a4f647696a0cfd4bea5629e66b68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lishangqian/.android/build-cache/ab3c08403223a7e863272ae74830a12d945f8677/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lishangqian/Desktop/Word/app/build/intermediates/pre-dexed/debug/classes_50f93cb9ffd562e370cbf25bdb7192839a8c159a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lishangqian/.android/build-cache/6dabba2b9484885d5eebb32438f7620456c1545f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/lishangqian/Desktop/Word/app/build/intermediates/pre-dexed/debug/classes_0d81d0e65ba8c1ac64047959e250da36742bedb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lishangqian/.android/build-cache/598410341566cbdb3022ef878bceb88accc1f886/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/lishangqian/Desktop/Word/app/build/intermediates/pre-dexed/debug/classes_2d1c9804f6b6ffc46a3935427124b30421434f9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lishangqian/.android/build-cache/8ed26cbf0b723a1d5d535ea307d5439c73c1bbf1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/lishangqian/Desktop/Word/app/build/intermediates/pre-dexed/debug/classes_6b6835dbbdf58527cf129f556534493120311230.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lishangqian/.android/build-cache/d0348ce75b45f17cb9630e149609506cd780c248/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/lishangqian/Desktop/Word/app/build/intermediates/pre-dexed/debug/classes_646125199a8a33c3630d3f5e04bb5651240444a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lishangqian/.android/build-cache/bc2388ca183bcc42f67f391c7f96254dac85fccc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/Users/lishangqian/Desktop/Word/app/build/intermediates/pre-dexed/debug/classes_6311ef1f8bc7ce2300dcc5f25dbe440bb7ecf832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lishangqian/.android/build-cache/416efeea0d8defc3e67bd068916cf3b9d30e875e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/lishangqian/Desktop/Word/app/build/intermediates/pre-dexed/debug/classes_05044014592b5f1ee6b05a6af214e7d911e05835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lishangqian/.android/build-cache/2709c8ce493bec37bb4c3bcc5859fb00719eeb50/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/lishangqian/Desktop/Word/app/build/intermediates/pre-dexed/debug/classes_d797423def69c2559e9d51a75cc6641cdbb54b37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lishangqian/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/Users/lishangqian/Desktop/Word/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha7_654375b99f38a378b3cbcc34c37d1c32e1322e08.jar" />
+    </item>
+
+</items>
